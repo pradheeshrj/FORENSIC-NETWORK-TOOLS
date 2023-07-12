@@ -24,8 +24,8 @@ This exhausts the servers thread pool and the server can't reply to other people
 If you found this work useful, please cite it as
 
 ```bibtex
-@article{gkbrkslowloris,
-  title = "Slowloris",
+@article{prjslowloris,
+  title = "AH-Slowloris",
   author = "Pradheesh R J",
   journal = "github.com",
   year = "2023",
