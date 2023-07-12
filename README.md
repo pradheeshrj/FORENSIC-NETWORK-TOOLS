@@ -6,7 +6,7 @@ You need a copyright disclaimer on your website or app if you have branding, mat
 
 This disclaimer can be used on blogs, websites, images, videos, music, and even social media to establish your ownership over original content. Having this statement helps protect your work against theft.
 
-©2023-2026 Infinity Space. All Rights Reserved 
+©2023-2026 Pradheesh R J. All Rights Reserved 
 
 # AH-slowloris.py - Simple slowloris in Python
 
