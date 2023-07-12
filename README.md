@@ -25,7 +25,7 @@ If you found this work useful, please cite it as
   author = "Pradheesh R J",
   journal = "github.com",
   year = "2023",
-  url = "https://github.com/gkbrk/slowloris"
+  url = "https://github.com/pradheeshrj/FORENSIC-NETWORK-TOOLS"
 }
 How to install and run?
 You can clone the git repo or install using pip. Here's how you run it.
